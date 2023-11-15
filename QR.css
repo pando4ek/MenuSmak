@@ -1,0 +1,74 @@
+
+.kids-menu {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.flex-wrapper-one {
+  position: relative;
+}
+
+.mlinci-z-dzhemom-150g-60-00-malina-smor {
+  height: 489px;
+  width: 339px;
+  display: flex;
+  position: absolute;
+  right: 7px;
+  top: 5px;
+  color: var(--black);
+  font-family: var(--inter-12-black-family);
+  font-size: var(--inter-12-black-size);
+  font-weight: var(--inter-12-black-weight);
+  line-height: var(--inter-12-black-line-height);
+}
+
+.jem{
+  color: black;
+  font-family: "Arial";
+  font-size: 12px;
+}
+
+td{
+  border-bottom: 1px solid black;
+}
+
+.tr{
+  border: none;
+}
+
+.semi{
+  font-weight: bold;
+}
+
+.tdr{
+  text-align: center;
+}
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -webkit-text-stroke-color: white;
+  -webkit-text-fill-color: black;
+  -webkit-text-stroke-width: 2px;
+  font-size: 46px;
+}
+
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+.str{
+  font-size: 13px;
+}
+
+.banketne{
+  object-fit: cover;
+  width: 360px; 
+  height: 115px;
+  border-radius: 30px;
+}
